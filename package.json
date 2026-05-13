@@ -33,8 +33,8 @@
     "dotenv": "^17.4.2",
     "fs": "^0.0.1-security",
     "octokit": "^5.0.5",
-    "tar": "^7.4.3",
-    "yaml": "^2.7.1"
+    "tar": "^7.5.15",
+    "yaml": "^2.9.0"
   },
   "overrides": {
     "@actions/github": "^8.0.1",
@@ -48,7 +48,7 @@
     "@types/jest": "^30.0.0",
     "@vercel/ncc": "^0.38.4",
     "eslint": "^10.3.0",
-    "jest": "^30.3.0",
+    "jest": "^30.4.2",
     "jest-transform-stub": "^2.0.0",
     "ts-jest": "^29.4.9"
   }
